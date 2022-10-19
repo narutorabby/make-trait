@@ -1,0 +1,17 @@
+{
+    "name": "narutorabby/make-trait",
+    "description": "This will create traits in Laravel",
+    "type": "library",
+    "license": "MIT",
+    "authors": [{
+        "name": "Mehedi Hasan Rabby",
+        "email": "mhrabby17@gmail.com"
+    }],
+    "minimum-stability": "dev",
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "Narutorabby\\MakeTrait\\": "src/"
+        }
+    }
+}
