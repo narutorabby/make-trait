@@ -7,7 +7,7 @@
         "name": "Mehedi Hasan Rabby",
         "email": "mhrabby17@gmail.com"
     }],
-    "minimum-stability": "dev",
+    "minimum-stability": "stable",
     "require": {},
     "autoload": {
         "psr-4": {
